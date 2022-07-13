@@ -1,6 +1,6 @@
 # Sales Insights Dashboard
 
-## Purpose  | ## Stakeholders
+## Purpose    | ## Stakeholders
 ------------- | -------------
 To unlock sales insights that are not visible before, for sales team for decision support and automate them to reduce manual time spent in data gathering  | - Sales Director
 - Marketing Team
