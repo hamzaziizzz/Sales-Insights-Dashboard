@@ -1,12 +1,13 @@
 # Sales Insights Dashboard
 
-## Purpose    | ## Stakeholders
-------------- | -------------
-To unlock sales insights that are not visible before, for sales team for decision support and automate them to reduce manual time spent in data gathering  | - Sales Director
-- Marketing Team
-- Customer Service Team
-- Data & Analytics Team
-- IT Department
+Purpose                                                                           | Stakeholders
+--------------------------------------------------------------------------------- | -------------------------------------------------------------------------------
+To unlock sales insights that are not visible before, for sales team for decision | - Sales Director
+support and automate them to reduce manual time spent in data gathering           | - Marketing Team
+                                                                                  | - Customer Service Team
+                                                                                  | - Data & Analytics Team
+                                                                                  | - IT Department
+
 
 ## Purpose
 To unlock sales insights that are not visible before, for sales team for decision support and automate them to reduce manual time spent in data gathering
